@@ -54,3 +54,5 @@ LSTM Prediction: The LSTM model predicts the stock prices based on the processed
 Visualization: The application generates and displays various charts, including candlestick charts, to visualize the stock trends and predictions.
 
 Download Option: Users can download the historical stock data as a CSV file.
+
+This project is just for enchancing my coding skills
