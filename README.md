@@ -47,6 +47,8 @@ User Input: Users enter a stock ticker symbol in the input field and submit the 
 
 Data Fetching and Processing: The application fetches historical stock data, calculates EMAs, splits, and scales the data using MinMaxScaler.
 
+Note: This project is for enchancing my technical skills,please do not use this code for personal purpose
+
 LSTM Prediction: The LSTM model predicts the stock prices based on the processed data.
 
 Visualization: The application generates and displays various charts, including candlestick charts, to visualize the stock trends and predictions.
